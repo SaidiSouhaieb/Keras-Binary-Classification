@@ -7,14 +7,16 @@ This repository contains code for a Convolutional Neural Network (CNN) model to 
 ## Installation
 
 1. Clone the repository to your local machine:
+```bash
+  git clone git@github.com:SaidiSouhaieb/Keras-Binary-Classification.git
 
-git clone git@github.com:SaidiSouhaieb/Keras-Binary-Classification.git
-cd Keras-Binary-Classification
+  cd Keras-Binary-Classification
+```
 
 2. Install required dependecies
-
-pip install -r requirements.txt
-
+```bash
+  pip install -r requirements.txt   
+```
 ## Usage
 
 1. Download model from cloud drive
