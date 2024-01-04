@@ -38,6 +38,7 @@ link : [https://drive.google.com/drive/folders/1wd5g_VsN1tJsiBwmvhZcaFff8hRChbCi
 ## Training
 
 Data Structure
+```bash
 
   dataset/
   |-- train/
@@ -46,6 +47,7 @@ Data Structure
   |-- test/
   |   |-- cats/
   |   |-- dogs/
+```
 
 Pass the augmented data created before.
 
