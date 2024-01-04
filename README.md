@@ -28,7 +28,7 @@ link : [https://drive.google.com/drive/folders/1wd5g_VsN1tJsiBwmvhZcaFff8hRChbCi
 
 4. Predict!
 
-## Data
+## Data
 
 1. Download data below
 link : [https://www.kaggle.com/datasets/chetankv/dogs-cats-images]
