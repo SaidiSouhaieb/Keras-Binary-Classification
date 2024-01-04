@@ -35,7 +35,7 @@ link : [https://www.kaggle.com/datasets/chetankv/dogs-cats-images]
 
 2. Follow data structure below
 
-## Data Augmentation
+## Data Augmentation
 
 1. Pass the data as structured below
 
